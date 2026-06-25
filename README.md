@@ -5,6 +5,7 @@
   <img src="tobiidev.gif" width="1200" alt="tobiidev" />
 </a>
 <h3 align="left">Connect with me:</h3>
+       <a>Email: mynametobiii@gmail.com</a>
 <p align="left">
 </p>
 
