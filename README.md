@@ -6,6 +6,7 @@
 </a>
 <h3 align="left">Connect with me:</h3>
        <a>Email: mynametobiii@gmail.com</a>
+       <link>https://tobii206.github.io/nguyenthanhlong/</link>
 <p align="left">
 </p>
 
